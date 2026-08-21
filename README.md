@@ -29,6 +29,12 @@ Running time correlates with final result far more strongly (**r = 0.96, R² = 0
  
 n8n · Supabase (PostgreSQL) · Python · Marimo · Statistical hypothesis testing
  
+## Full report
+ 
+[HYROX_Report.pdf](./HYROX_Report.pdf) — full presentation-style report: hypothesis, data pipeline, quality checks, analysis and recommendations.
+ 
+[Marimo_Notebook_Export.pdf](./Marimo_Notebook_Export.pdf) — exported analysis notebook (code, statistical tests, charts).
+ 
 ## Limitations
  
 - Single event, single division, single age group — findings apply to this sample, not to HYROX overall
